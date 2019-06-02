@@ -4,6 +4,19 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I am currently the accidental CEO/Founder of stealth startup. 
 
-email: agus[at]python.web.id
+I spent most of my career investing in private credit and venture capital at Soros. Some cool things I focused on are
+-Aircraft Engines (and more generally commercial aircraft)
+-USDA Crops
+-Litigation
+-Consumer Finance
+-Payments
+-Music and Pharma Royalties
+-Commercial Real Estate
+
+I like to muse and have thought experiments around the intersection of tech and business. My hobbies include tennis, running, cycling, and cooking.
+
+Feel free to reach out if you'd like to chat about anything!
+
+email: wang.andrew.d@gmail.com

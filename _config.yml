@@ -2,7 +2,7 @@ title: Random Things I'm Interested In
 description: Verbal unfiltered diarrhea from my journey through every day life.
 author: Andrew Wang
 github: https://github.com/wangandrewd
-about: I'm an accidental founder of a startup. I used to do credit investing and have a background in CS. 
+about: I'm an accidental founder of a startup. I used to do credit investing and have a background in Computer Science.
 disqus_shortname: wangandrewd
 google_analytics: UA-141250644-1
 avatar_url: /static/img/avatar.jpg
@@ -23,11 +23,11 @@ social:
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/andrew-w-73980246/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/wangandrewd"
 
 share:
   twitter_username: github.io
-  fb_appid: 1749788565247320
+  fb_appid: #
 
 urls:
     - text: About Me
