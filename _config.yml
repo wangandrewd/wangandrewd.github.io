@@ -33,7 +33,7 @@ urls:
     - text: About Me
       url: /about/
 
-url: "https://wangandrewd.github.io"
+url: "https://www.andrewwang.xyz"
 baseurl: ""
 paginate: 20
 per_page: 20
