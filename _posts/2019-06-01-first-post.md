@@ -5,7 +5,7 @@ date:   2019-06-01 20:06:00
 categories: [others]
 ---
 
-Given my new venture, I have finally decided to start a blog, largely as a way to dissect my own thoughts. Previously, I was restricted from doing so given my employer was a family office (and therefore, there were potentially investment advice issues) but now I should be free and clear of my obligations.
+Given my new venture, I have finally decided to start a blog, largely as a way to dissect my own thoughts.
 
 Today is also the main day at my 5th year reunion. Food for thought:
 -People you knew from freshman year of college have known you for 10 years. That is a third of your adult life
