@@ -8,9 +8,9 @@ categories: [others]
 Given my new venture, I have finally decided to start a blog, largely as a way to dissect my own thoughts.
 
 Today is also the main day at my 5th year reunion. Food for thought:
--People you knew from freshman year of college have known you for 10 years. That is a third of your adult life
--Friends you have not seen in 5 years, you have not seen for half your relationship with them
--Yet, likely these same friends are people you feel like you saw just yesterday
+- People you knew from freshman year of college have known you for 10 years. That is a third of your adult life
+- Friends you have not seen in 5 years, you have not seen for half your relationship with them
+- Yet, likely these same friends are people you feel like you saw just yesterday
 
 My quick thought around this (warning, purely arm chair psychology) is that we perceive and attribute emotional weight things as a fraction of our lives. When you are young, every thing seems memorable because you have not had many experiences. As we grow older, that same fixed period of time is a lower percentage and therefore, lower significance to us. This should only bolstered by the fact that most of us have had pretty busy working lives the past few years and jobs are often monotonous experiences which are probably more easily compressed.
 
